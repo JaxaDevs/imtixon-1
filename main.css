@@ -1,0 +1,28 @@
+#j3{
+  width: 300px;
+}
+@media only screen and (max-width: 600px) {
+#j1{
+  display: none;
+}
+#j2 .row span{
+display: none;
+
+}
+#j6{
+display: none;
+}
+#j3{
+  display: none;
+}
+#j5{
+  width: 100%;
+}
+#j7{
+  width: 120%;
+}
+
+  }
+  @media only screen and (max-width: 768px) {
+
+  }
